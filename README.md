@@ -90,7 +90,7 @@ src/
 ### Run the full stack
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Pavel-Karpenko/notification-service.git
 cd notification-service
 
 docker compose up --build
